@@ -1,3 +1,5 @@
+package Lesson1;
+
 import com.github.javafaker.Faker;
 
 import java.util.Locale;
